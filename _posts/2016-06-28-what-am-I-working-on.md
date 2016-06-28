@@ -3,7 +3,7 @@ layout: post
 title: What am I working on?
 ---
 
-I am currently working on a Capstone project at General Assembly. Under the guidance of Carey Anne Nadeau from [Open Data Nation](http://www.opendatanation.com/), I am working to replicate [Chicago's Food Inspection Forecasting](https://chicago.github.io/food-inspections-evaluation/) open source project for Washington, DC I am also doing this in Python instead of R.
+I am currently working on a Capstone project at General Assembly. Under the guidance of Carey Anne Nadeau from [Open Data Nation](http://www.opendatanation.com/), I am working to replicate [Chicago's Food Inspection Forecasting](https://chicago.github.io/food-inspections-evaluation/) open source project for Washington, DC. I am also doing this in Python instead of R.
 
 Open Data Nation was the [first entity to replicate Chicago's model](http://www.theatlantic.com/technology/archive/2016/01/predictive-policing-food-poisoning/423126/) and is actively working to replicate the project for additional cities through [FIVAR](http://www.fivar.org/).
 
