@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 Data Scientist leveraging my life-long passion for technology, and problem-solving experience to develop elegant solutions and processes.
