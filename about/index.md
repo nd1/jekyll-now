@@ -17,7 +17,7 @@ I am currently the Teaching Assistant for the [Georgetown University School of C
 
 I completed the Georgetown University School of Continuing Studies Certificate in Data Science as a member of the Spring 2016 cohort.
 
-I am a member of the [General Assembly DC Data Science Immersive](https://generalassemb.ly/education/data-science-immersive) first cohort.
+I completed the [General Assembly DC Data Science Immersive](https://generalassemb.ly/education/data-science-immersive) first cohort in July 2016.
 
 ### Contact me
 
