@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #100DaysofCommits
+title: 100DaysofCommits
 ---
 I signed the #100DaysofCommits pledge with [Women Who Code](https://medium.com/@WomenWhoCodeDC/100-days-of-commits-60af0abe8825#.52a3yfxma).
 

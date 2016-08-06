@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Status - #100DaysofCommits
+title: Status - 100DaysofCommits
 ---
 
 As noted previously, I [signed the #100DaysofCommits pledge](http://www.nicoledonnelly.me/100DaysOfCommits/). Today is Day 5, and this post will be my commit for today.
